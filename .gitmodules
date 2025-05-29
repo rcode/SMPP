@@ -4,3 +4,6 @@
 [submodule "jasmin"]
 	path = jasmin
 	url = https://github.com/rcode/jasmin.git
+[submodule "jasmin-web-panel"]
+	path = jasmin-web-panel
+	url = https://github.com/rcode/jasmin-web-panel.git
