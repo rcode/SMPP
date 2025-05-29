@@ -1,0 +1,6 @@
+[submodule "playsms"]
+	path = playsms
+	url = https://github.com/rcode/playsms.git
+[submodule "jasmin"]
+	path = jasmin
+	url = https://github.com/rcode/jasmin.git
